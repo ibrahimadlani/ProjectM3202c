@@ -1,4 +1,4 @@
-![Drag Racing](http/img/pictures/logo.png²)
+![Drag Racing](http/img/pictures/logo.png)
 
 # Documentation de la partie WEB
 
