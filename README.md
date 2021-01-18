@@ -1,3 +1,5 @@
+![Drag Racing](http/img/pictures/logo.png²)
+
 # Documentation de la partie WEB
 
 ## Problèmatique
