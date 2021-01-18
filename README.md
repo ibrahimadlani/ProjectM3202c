@@ -11,7 +11,7 @@ Ce projet à pour objectif de crée une application afin de resoudre des équati
 
 ---
 
-→ Le site sera mis en production [ici](https://faucheron.fr/projetm3202c/).
+→ Le site sera mis en production [ici](https://faucheron.fr/projetm3202c/http).
 
 ---
 
