@@ -1,0 +1,25 @@
+* {
+  font-family: "Roboto", sans-serif;
+  color: #d0cdc8;
+}
+body {
+  background-color: #131415;
+}
+
+.modal-content {
+  background-color: #131415;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif;
+  color: #979797;
+}
+
+#titre {
+  width: 300px;
+}
